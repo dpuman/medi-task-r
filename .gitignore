@@ -1,0 +1,16 @@
+.idea
+src/.env
+src/.env.backup
+src/myenv
+static
+media
+*.pyc
+env
+venv
+virtualenv
+.code
+src/*/node_moduels
+src/*/package.lock
+Pipfile.lock
+node_modules
+package-lock.json
